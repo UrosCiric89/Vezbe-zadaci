@@ -1,0 +1,203 @@
+    1  pwd
+    2  ls
+    3  ls-l
+    4  ls-l
+    5  ls -l
+    6  ll
+    7  cd ..
+    8  pwd
+    9  cd Desktop
+   10  cd ../..
+   11  pwd
+   12  cd Desktop
+   13  cd Urke i Boka
+   14  cd Urke i Boka
+   15  ls -l
+   16  cd..
+   17  cd ..
+   18  ls -l
+   19  cd 'Default User
+   20  cd 'Default User'
+   21  ls -l
+   22  cd Desktop
+   23  cd Users
+   24  ls -l
+   25  cd 'Urke i Boka'
+   26  ls -l
+   27  cd Desktop
+   28  mkdir test123
+   29  cd test123
+   30  touch test.txt
+   31  nano test.txt
+   32  cat test.txt
+   33  ls -l
+   34  ls --help
+   35  ls -l
+   36  rm test.txt
+   37  history
+   38  history > istorija.txt
+   39  cat istorija.txt
+   40  tail istorija.txt
+   41  tail -n 3 istorija.txt
+   42  head istorija.txt
+   43  head -n 5 istorija.txt
+   44  date
+   45  time
+   46  cal
+   47  mkdir novi123
+   48  cd novi123
+   49  touch fajl.txt
+   50  history > fajl.txt
+   51  grep -e cd fajl.txt
+   52  grep -e cd fajl.txt | tail -n 15
+   53  ps
+   54  cd novi123
+   55  pwd
+   56  cd novi123
+   57  git init
+   58  git config --global user.name "UrosCiric89"
+   59  git config --global user.email "urosciric89@gmail.com"
+   60  git status
+   61  git add fajl.txt
+   62  git commit -m "dodavanje fajla fajl.txt"
+   63  git clone https://github.com/UrosCiric89/IT-Bootcamp.git
+   64  git push https://github.com/UrosCiric89/IT-Bootcamp.git
+   65   git push --set-upstream https://github.com/UrosCiric89/IT-Bootcamp.git master
+   66   git push --set-upstream https://github.com/UrosCiric89/IT-Bootcamp.git master
+   67   git push --set-upstream https://github.com/UrosCiric89/IT-Bootcamp.git master
+   68  git pull https://github.com/UrosCiric89/IT-Bootcamp.git
+   69  git pull https://github.com/UrosCiric89/IT-Bootcamp.git
+   70  git checkout -b novaGrana
+   71  touch noviFajl.txt
+   72  git add noviFajl.txt
+   73  git commit -m "nova grana novi fajl"
+   74   git push --set-upstream https://github.com/UrosCiric89/IT-Bootcamp.git novaGrana
+   75  pvd
+   76  pwd
+   77  git pull https://github.com/UrosCiric89/-bootcampVezbanje.git
+   78  git clone https://github.com/UrosCiric89/-bootcampVezbanje.git
+   79  cd -bootcampVezbanje
+   80  pwd
+   81  cd bootcampVezbanje
+   82  mkdir Uros Ciic
+   83  cd Uros Ciric
+   84  delete Ciic
+   85  rm Ciic
+   86  mkdir Uros-Ciric
+   87  cd Uros-Ciric
+   88  touch Licni-Podaci
+   89  touch Licni-podaci.txt
+   90  nano Licni-podaci.txt
+   91  cd..
+   92  cd ..
+   93  nano vezba1.txt
+   94  git init
+   95  git config --global user.name "UrosCiric89"
+   96  git config --global user.email "urosciric89@gmail.com"
+   97  git status
+   98  git add vezba1.txt
+   99  git commit -m "Ubacivanje u fajl vezba1.txt"
+  100  git clone https://github.com/UrosCiric89/bootcampVezbanje.git
+  101  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  102  cd uros-Ciric
+  103  cd Uros-Ciric
+  104  pwd
+  105  cd ..
+  106  cd Uros-Ciric
+  107  git status
+  108  git init
+  109  git config --global user.name "UrosCiric89"
+  110  git config --global user.email "urosciric89@gmail.com"
+  111  git status
+  112  git add Licni-podaci
+  113  git commit -m "Ubacivanje Licnih podataka"
+  114  git commit -m "Ubacivanje Licni-podaci"
+  115  git commit -m "Ubacivanje Licni-podaci.txt"
+  116  git add Licni-podaci.txt
+  117  git commit -m "Ubacivanje Licni-podaci.txt"
+  118  git clone https://github.com/UrosCiric89/bootcampVezbanje.git
+  119  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  120   git push --set-upstream https://github.com/UrosCiric89/bootcampVezbanje.git master
+  121  git init
+  122  cd ..
+  123  cd ..
+  124  cd bootcampVezbanje 
+  125  cd Uros-Ciric
+  126  git init
+  127  git config --global user.name "UrosCiric89"
+  128  git config --global user.email "urosciric89@gmail.com"
+  129  git status
+  130  rm Licni-Podaci
+  131  git status
+  132  git status
+  133  git init
+  134  git cinfig --global user.name "UrosCiric89"
+  135  git init
+  136  git config --global user.name "UrosCiric89"
+  137  git config --global user.email "urosciric89@gmail.com"
+  138  git status
+  139  git add Licni-podaci.txt
+  140  git status
+  141  git commit -m "Stoti pokusaj Licni-podaci"
+  142  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  143  rm Licni-podaci.txt
+  144  touch Licni-podaci.txt
+  145  nano Licni-podaci.txt
+  146  git init
+  147  git config --global user.name "UrosCiric89"
+  148  git config --global user.email "urosciric89@gmail.com"
+  149  git status
+  150  git add Licni-podaci.txt
+  151  git commit -m "Dodavanje Licni-podaci.txt"
+  152  git clone https://github.com/UrosCiric89/bootcampVezbanje.git
+  153  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  154  git push --set-upstream https://github.com/UrosCiric89/bootcampVezbanje.git
+  155  git init
+  156  git init
+  157  git config --global user.name "UrosCiric89"
+  158  git config --global user.email "urosciric89@gmail.com"
+  159  git status
+  160  rm Licni-podaci.txt
+  161  touch Licni-podaci.txt
+  162  nano Licni-podaci.txt
+  163  git init
+  164  git config --global user.name "UrosCiric89"
+  165  git config --global user.email "urosciric89@gmail.com"
+  166  git status
+  167  git add Licni-podaci.txt
+  168  git commit -m "Dodavanje Licni-podaci.txt"
+  169  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  170  git status
+  171  history > historyGit.txt
+  172  cd bootcampVezbanje
+  173  touch podaci.txt
+  174  nano podaci.txt
+  175  rm podaci
+  176  rm podaci.txt
+  177  cd Uros-Ciric
+  178  touch podaci.txt
+  179  nano podaci.txt
+  180  git init
+  181  git config --global user.name "UrosCiric89"
+  182  git config --global user.email "urosciric89@gmail.com"
+  183  git status
+  184  git add podaci.txt
+  185  git commit -m "dodavanje fajla podaci.txt"
+  186  git clone https://github.com/UrosCiric89/bootcampVezbanje.git
+  187  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  188  git status
+  189  cd ..
+  190  mkdir UrosCiric
+  191  cd UrosCiric
+  192  touch Podaci.txt
+  193  nano Podaci.txt
+  194  git init
+  195  git config --global user.name "UrosCiric89"
+  196  git config --global user.email "urosciric89@gmail.com"
+  197  git status
+  198  git add Podaci.txt
+  199  git commit -m "dodavanje fajla Podaci.txt"
+  200  git clone https://github.com/UrosCiric89/bootcampVezbanje.git
+  201  git push https://github.com/UrosCiric89/bootcampVezbanje.git
+  202  git push --set-upstream https://github.com/UrosCiric89/bootcampVezbanje.git master
+  203  history > historyGit.txt
